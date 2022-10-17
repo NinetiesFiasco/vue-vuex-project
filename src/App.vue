@@ -1,14 +1,14 @@
 <template>
-  <EmptyComponent />
+  <StoreExample />
 </template>
 
 <script>
-import EmptyComponent from './components/EmptyComponent.vue'
+import StoreExample from './components/StoreExample.vue'
 
 export default {
   name: 'App',
   components: {
-    EmptyComponent
+    StoreExample
   }
 }
 </script>
