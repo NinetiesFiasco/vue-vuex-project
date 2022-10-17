@@ -1,4 +1,4 @@
-# empty-project
+# vue-vuex-project
 
 ## Project setup
 ```
